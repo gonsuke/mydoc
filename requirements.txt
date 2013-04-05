@@ -1,0 +1,5 @@
+MySQL-python>=1.2
+PyYAML>=3.09
+Mako>=0.3.6
+SQLAlchemy>=0.6.5
+sqlalchemy_schemadisplay>=1.0
